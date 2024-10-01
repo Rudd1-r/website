@@ -1,0 +1,272 @@
+body {
+
+
+background-color: #e1ecf5; /* Changes the background colour */
+
+text-align: center; /* Aligns all text to centre of page */
+
+
+}
+/* Top */
+
+.Top{ /* Adjusts top class */
+
+	margin-top: 100px; /* Pushes top downwards by 100px */
+  
+}
+
+.top_cloud{ /* Adjusts top cloud */
+
+margin-left: 800px; /* Moves top cloud right by 800px */
+
+}
+
+
+.second_cloud{ /* Adjusts second cloud  */
+
+margin-right: 800px; /* Moves second cloud right by 800px */
+
+}
+
+
+.sacramento-regular { /* Adjusts the sacramento class */
+  font-family: "Sacramento", cursive; /* Changes the font family to sacramento */
+  font-weight: 800; /* Changes the font weight */
+  font-style: bold; /* Changes the fony style to bold */
+  font-size: 60px; /* Changes font size to 60px */
+  color: #34eb86;
+}
+
+
+
+
+
+/* Middle */
+
+
+.Middle{ /* Adjusts the middle class */
+
+background-color: white; /* Changes background colour of middle class to white */
+
+
+} 
+
+	
+.UsainBolt1{ /* Adjusts Usain Bolt img class */
+
+
+margin-top: 90px; /* Pushes img down 90px */
+
+
+width: 200px; /* Makes width of img 200px */
+
+height: 200px; /* Makes height of img 200px */
+
+
+border-radius: 50%; /* Changes the shape of img to circle */
+
+}
+
+.p1{ /* Adjusts p1 class  */
+
+
+
+width: 29%; /* Changes width of p1 class to 29% */
+
+margin: 10px auto; /* centres img even further */
+
+font-style: ;
+
+}
+
+
+p{
+
+font-family: "Montserrat", sans-serif;;
+
+}
+
+.p2{
+
+color: #34eb86;
+font-size: 20px;
+
+}
+
+
+.Bottom_Middle{
+
+
+margin: 100px auto 100px auto;
+
+
+width: 50%;
+
+
+line-height: 2;
+
+}
+
+h2{
+
+color: #34eb86;
+
+font-size: 60px;
+
+}
+
+.skills{
+
+
+margin-top: 50px;
+text-align: left;
+line-height: 2;
+
+
+}
+
+
+
+.pic{
+
+float: left;
+margin-right: 100px;
+width: 20%;
+
+}
+
+
+
+.p3{
+
+
+width: 90%;
+
+
+}
+
+.p4{
+
+
+width: 30%;
+
+margin-left: 590px;
+}
+
+
+
+.h1a{
+
+
+font-size: 75px;
+
+font-style: Maths Sans;
+
+color: #04870b;
+
+}
+
+
+.p5{
+
+
+width: 30%;
+
+margin-left: 590px;
+
+}
+
+.button{
+
+background-color: #0db558;
+
+border-width: 0px;
+padding: 50px, 50px;
+
+height: 50px;
+width: 150px;
+margin-bottom: 100px;
+margin-top: 50px;
+color: #047a57;
+
+
+
+}
+
+
+.pic1{
+
+
+float: right;
+margin-left: 100px;
+width: 20%;
+
+
+}
+
+
+
+.skill{
+
+
+text-align: left;
+
+
+}
+
+
+
+
+h3{color: #32a852;
+
+
+}
+
+
+
+
+.pbottom{
+
+color: #0ec77a;
+
+text-align: center;
+
+
+}
+
+
+a{
+
+
+  color: #0ec77a;
+  padding: 50px;
+  text-decoration: none;
+
+}
+
+a:hover{ 
+
+  color: black;
+
+
+}
+
+
+.pbottom{
+
+color: #0ec77a;
+
+margin-top: 30px;
+
+font-size: 15px;
+}
+
+
+
+.buttonlink{
+
+padding: 0px;
+  
+text-decoration: underline;
+
+}
